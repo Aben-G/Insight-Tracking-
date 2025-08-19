@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-23">
+>>>>>>> efb5b50e9c1f745ed59765a9957861f02f6693bb
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/flatlaf-intellij-themes-3.5.2.jar"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/flatlaf-theme-editor-3.5.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/flatlaf-3.4.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/mysql-connector-j-9.0.0.jar"/>
+=======
+	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/flatlaf-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/flatlaf-extras-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/jfreechart-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/mysql-connector-j-9.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/qrcodegen-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/core-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abeng/Downloads/jarss/swing-toast-notifications-1.0.2.jar"/>
+>>>>>>> efb5b50e9c1f745ed59765a9957861f02f6693bb
 	<classpathentry kind="output" path="bin"/>
 </classpath>
