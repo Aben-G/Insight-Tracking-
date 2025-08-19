@@ -1,0 +1,15 @@
+
+package Pages;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class Database {
+    private static final String URL = "jdbc:mysql://localhost:3306/Assemble_BS"; 
+    private static final String USER = "ABEN"; 
+    private static final String PASSWORD = "011248Agb_2H"; 
+
+    public static Connection getConnection() throws SQLException {
+        return DriverManager.getConnection(URL, USER, PASSWORD);
+    }
+}
